@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jamesmwangi55/Pomodoro.svg?branch=master)](https://travis-ci.org/jamesmwangi55/Pomodoro)
 # pomodoro
 
 > A Vue.js project
