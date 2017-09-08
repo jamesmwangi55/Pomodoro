@@ -3,7 +3,7 @@ languge: node_js
 sudo: required
 dist: trusty
 node_js:
- - "v8.4.0"
+- "8.4.0"
 
 before_script:
 - export CHROME_BIN=/usr/bin/google-chrome
