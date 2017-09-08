@@ -1,10 +1,9 @@
 //.travis.yml
-languge: node_js
+language: node_js
 sudo: required
 dist: trusty
 node_js:
-- "8.4.0"
-
+- "5.11.0"
 before_script:
 - export CHROME_BIN=/usr/bin/google-chrome
 - sudo apt-get update
